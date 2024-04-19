@@ -1,0 +1,4 @@
+gunicorn
+opencv-python
+pyserial
+django
